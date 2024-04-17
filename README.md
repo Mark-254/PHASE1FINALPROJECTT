@@ -10,8 +10,5 @@ MARK WAGACHA
 ### LICENSE
 MIT LICENSE
 
-#### PROJECT
-https://github.com/Mark-254/PHASE1FINALPROJECTT.git
-
 
 
